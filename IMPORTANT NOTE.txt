@@ -1,0 +1,4 @@
+I HAVE ADDED DATABASE FILE (NAMED = db_ums.sql)
+
+KINDLY IMPORT IT IN YOUR Localhost/phpmyadmin so that project can run accordingly.
+
